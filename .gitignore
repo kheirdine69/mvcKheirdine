@@ -1,0 +1,23 @@
+# .NET build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE files
+.vscode/
+.idea/
+
+# Local configuration
+appsettings.Development.json
+*.Development.json
+
+# Database files
+*.db
+*.sqlite
